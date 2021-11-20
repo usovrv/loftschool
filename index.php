@@ -9,8 +9,18 @@
 </head>
 <body>
 <ul>
-    <li><a href="z0.php">Задание 0</a></li>
-    <li><a href="z1.php">Задание 1</a></li>
+    <li>Задание 1
+        <ul>
+            <li><a href="dz/dz1/item0.php">Задание 0</a></li>
+            <li><a href="dz/dz1/item1.php">Задание 1</a></li>
+            <li><a href="dz/dz1/item2.php">Задание 2</a></li>
+            <li><a href="dz/dz1/item3.php">Задание 3</a></li>
+            <li><a href="dz/dz1/item4.php">Задание 4</a></li>
+            <li><a href="dz/dz1/item5.php">Задание 5</a></li>
+            <li><a href="dz/dz1/item6.php">Задание 6</a></li>
+            <li><a href="dz/dz1/item7.php">Задание 7</a></li>
+            <li><a href="dz/dz1/item8.php">Задание 8</a></li>
+        </ul></li>
 </ul>
 </body>
 </html>
