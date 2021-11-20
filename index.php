@@ -8,6 +8,9 @@
     <title>Домашняя работа</title>
 </head>
 <body>
-
+<ul>
+    <li><a href="z0.php">Задание 0</a></li>
+    <li><a href="z1.php">Задание 1</a></li>
+</ul>
 </body>
 </html>
