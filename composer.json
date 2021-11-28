@@ -1,0 +1,17 @@
+{
+    "name": "vendor/app",
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Roman Usov",
+            "email": "usovrv@gmail.com"
+        }
+    ],
+    "require": {
+        "intervention/image": "^2.7"
+    }
+}
